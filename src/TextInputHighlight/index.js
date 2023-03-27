@@ -8,6 +8,7 @@ export default {
       bind(el) {
         el.classList.add('text-input-highlight-container');
       },
+      
     });
 
     Vue.directive('mwlTextInputElement', {
